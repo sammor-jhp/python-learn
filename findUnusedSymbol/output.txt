@@ -1,0 +1,7 @@
+/usr/bin/ld: Removing unused section '.rodata' in file '/usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crt1.o'
+/usr/bin/ld: Removing unused section '.data' in file '/usr/lib/gcc/i686-linux-gnu/4.8/../../../i386-linux-gnu/crt1.o'
+/usr/bin/ld: Removing unused section '.data' in file '/usr/lib/gcc/i686-linux-gnu/4.8/crtbegin.o'
+/usr/bin/ld: Removing unused section '.data.b' in file 'testfile.o'
+/usr/bin/ld: Removing unused section '.text.fund' in file 'testfile.o'
+/usr/bin/ld: Removing unused section '.text.func' in file 'testfile.o'
+/usr/bin/ld: Removing unused section '.text.__x86.get_pc_thunk.bx' in file '/usr/lib/i386-linux-gnu/libc_nonshared.a(elf-init.oS)'

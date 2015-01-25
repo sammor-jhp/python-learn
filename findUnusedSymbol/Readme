@@ -1,0 +1,2 @@
+gcc -c -ffunction-sections -fdata-sections -g testfile.c 
+gcc -Wl,--gc-sections,--print-gc-sections testfile.o -o testfile $> output.txt 

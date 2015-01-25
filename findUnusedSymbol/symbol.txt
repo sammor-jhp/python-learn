@@ -1,0 +1,30 @@
+testfile:0804a018 D a	/home/sammor/workspace/learn/git/python-learn/python_funUnUsedSymbol/testfile.c:3
+testfile:0804a01c b __bss_start
+testfile:0804a01c b completed.6590
+testfile:08048360 t deregister_tm_clones
+testfile:080483d0 t __do_global_dtors_aux
+testfile:08049f0c t __do_global_dtors_aux_fini_array_entry
+testfile:08049f14 d _DYNAMIC
+testfile:08049f14 d _DYNAMIC
+testfile:0804a01c d _edata
+testfile:0804a020 b _end
+testfile:080484d4 T _fini
+testfile:080483f0 t frame_dummy
+testfile:08049f08 t __frame_dummy_init_array_entry
+testfile:0804863c r __FRAME_END__
+testfile:0804843a T funa	/home/sammor/workspace/learn/git/python-learn/python_funUnUsedSymbol/testfile.c:19
+testfile:0804841d t funb	/home/sammor/workspace/learn/git/python-learn/python_funUnUsedSymbol/testfile.c:14
+testfile:0804a000 d _GLOBAL_OFFSET_TABLE_
+testfile:080482b4 T _init
+testfile:08049f0c t __init_array_end
+testfile:08049f08 t __init_array_start
+testfile:080484e8 R _IO_stdin_used
+testfile:08049f10 d __JCR_END__
+testfile:08049f10 d __JCR_LIST__
+testfile:080484d0 T __libc_csu_fini
+testfile:08048460 T __libc_csu_init
+testfile:08048447 T main	/home/sammor/workspace/learn/git/python-learn/python_funUnUsedSymbol/testfile.c:24
+testfile:08048390 t register_tm_clones
+testfile:08048320 T _start
+testfile:0804a01c D __TMC_END__
+testfile:08048350 T __x86.get_pc_thunk.bx
